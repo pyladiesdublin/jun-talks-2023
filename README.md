@@ -1,6 +1,6 @@
 # PyLadies Dublin June In-Person Meetup @ DIGIT Game Studios
 
-* 🗓 When: Tuesday, May 16, 2023 @ Workday
+* 🗓 When: Tuesday, June 20, 2023 @ Digit
 * 🎞 Talk Video: Coming soon
 * ℹ️ Event page: [https://www.meetup.com/pyladiesdublin/events/292955421/](https://www.meetup.com/pyladiesdublin/events/293534836/)
 
@@ -20,9 +20,12 @@ Gargi Gupta is currently pursuing her doctoral research at Technological Univers
 ## TALK 2 - Building communities and bridges
 (15 minutes) The journey I've been on as a software developer has been greatly impacted by the communities I've been a part of. This is a short talk about how they helped me get here and how I paid back to them.
 
-### About Bruna Moreira
-Bruna Moreira is an software engineer, teacher and chatbot developer in business hours. On leisure hours, she dances, naps in her hammock with her cats and works for open software communities: AcompanhaLegis, Big Open Source Sister, and PyLadies DF.
+Link to the presentation: [https://speakerdeck.com/brunamoreira/building-comminities-and-bridges](https://speakerdeck.com/brunamoreira/building-comminities-and-bridges)
 
+### About Bruna Moreira
+Bruna Moreira is a software engineer, teacher, and chatbot developer in business hours. On leisure hours, she dances, naps in her hammock with her cats and works for open software communities: AcompanhaLegis, Big Open Source Sister, and PyLadies DF.
+
+* https://brunanayara.github.io/
 
 # Thanks 
 * [Digit Games Studio]([url](https://www.digitgaming.com/) for hosting and catering
