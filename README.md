@@ -16,7 +16,7 @@ https://docs.google.com/presentation/d/e/2PACX-1vT8uqU_6T2tmuR5C0Ke1l9POdA3-RyRB
 Gargi Gupta is currently pursuing her doctoral research at Technological University Dublin with the SFI Center for Machine Learning Labs Ireland. Her research interest lies in the field of Explainable AI, Machine learning for climate and health. 
 
 * https://www.ml-labs.ie/cohort_3/gargi-gupta/
-* https://www.linkedin.com/in/gargi-gupta-025467108/?originalSubdomain=ie
+* https://www.linkedin.com/in/gargi-gupta-025467108
 * Link to the presentation: https://github.com/pyladiesdublin/jun-talks-2023/blob/main/Looking%20in%20depth%20overview%20of%20%20explainable%20AI%20methods.odp
 
 ## TALK 2 - Building communities and bridges
